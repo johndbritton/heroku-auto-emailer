@@ -21,4 +21,4 @@ Edit the Rakefile to change subject, from, to, body and message frequency.
 
 Author
 ------
-John Britton - http://www.johndbritton.com
+John Britton - [http://www.johndbritton.com](http://www.johndbritton.com)
