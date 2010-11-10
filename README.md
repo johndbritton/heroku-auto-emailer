@@ -17,3 +17,8 @@ Customize
 ---------
 
 Edit the Rakefile to change subject, from, to, body and message frequency.
+
+
+Author
+------
+John Britton - http://www.johndbritton.com
