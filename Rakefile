@@ -2,7 +2,6 @@ require 'rubygems'
 require 'pony'
 
 task :cron do
-  puts Date.today.wday == 3 && Date.today.cweek % 2 == 1
   if Date.today.wday == 3 && Date.today.cweek % 2 == 1 then
     Pony.mail :to => 'to-address@example.com',
               :from => 'from-address@example.com',
